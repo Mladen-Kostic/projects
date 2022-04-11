@@ -1,0 +1,9 @@
+{
+    "name": "mladen/news_app",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
